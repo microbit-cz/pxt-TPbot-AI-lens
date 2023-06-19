@@ -1,0 +1,28 @@
+{
+    "name": "pxt-AiUklizec",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-TPBot": "github:elecfreaks/pxt-tpbot#v1.2.6",
+        "pxt-PlanetX-AI": "github:elecfreaks/pxt-planetx-ai#v0.3.6"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "functions.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "6.0.8",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj",
+    "languageRestriction": "javascript-only"
+}
